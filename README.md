@@ -6,4 +6,4 @@ I will soon be going to University to study Comptuing, with aims to become a Sof
 
 
 
-You can browse through some of my work here on GitHub or check out my [Portfolio](https://vlcty.netlify.app)
+You can browse through some of my work here on GitHub or alternatively visit my [Portfolio](https://vlcty.netlify.app)
