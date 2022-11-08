@@ -2,7 +2,7 @@
 
 I am a 18 year old Developer with a primarily Front-End focus, however I like always like trying new things!
 
-I am currently at Edge Hill University studying BSc Comptuing, with aims to become a Software or Frontend Developer in the future.
+I am currently at Edge Hill University studying BSc Comptuing, with aims to become a Software or Frontend/Web Developer in the future.
 
 
 
